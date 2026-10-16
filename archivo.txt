@@ -1,0 +1,6 @@
+Este es un archivo que almacena mis datos
+mi nombre es Erin
+Mi edad es 21
+me gusta el futbol
+estoy aprendiendo git
+etcetcetc
