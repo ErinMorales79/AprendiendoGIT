@@ -11,4 +11,6 @@ Mi laboratorio de control de versiones.
 
 ## Nueva Seccion
 
-Estoy aprendiendo a usar GIT
+Estoy aprendiendo a usar git
+
+Y aqui ya se usar Git
