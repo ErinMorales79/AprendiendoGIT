@@ -15,4 +15,6 @@ Estoy aprendiendo a usar git
 
 Y aqui ya se usar Git
 
-Editanto el  README.md desde GitHub directamente.
+Editanto el README.md desde GitHub directamente.
+
+Editamos readme unicamente en la rama de feature/documentacion
